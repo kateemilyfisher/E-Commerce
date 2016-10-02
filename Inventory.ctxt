@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Inventory()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Inventory\n
+comment1.params=product
+comment1.target=void\ addProduct(Product)
+comment1.text=\n\ A\ method\ that\ allows\ any\ type\ of\ product\ to\ be\ added\ to\ the\ inventory\n
+comment2.params=
+comment2.target=void\ inventoryList()
+comment2.text=\n\ A\ Method\ that\ lists\ the\ full\ contents\ of\ the\ inventory\n
+comment3.params=filter
+comment3.target=Product\ search(Filter)
+comment3.text=\n\ A\ Method\ that\ allows\ a\ search\ with\ criteria.\n
+numComments=4

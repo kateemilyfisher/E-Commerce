@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=price\ description\ rewards\ thisitemSize
+comment0.target=Clothing(int,\ java.lang.String,\ int,\ int)
+comment0.text=\n\ Constructor\ of\ objects\ in\ Clothing\ class.\n\ Throws\ and\ unchecked\ exception\ when\ the\ size\ is\ 0\ or\ less.\n
+comment1.params=
+comment1.target=int\ getItemsize()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Method\ to\ return\ item\ attributes\n
+numComments=3

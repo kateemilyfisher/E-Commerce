@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=price\ description\ rewards\ energyRating\ thisspinSpeed
+comment0.target=WashingMachine(int,\ java.lang.String,\ int,\ int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ WashingMachine\n
+comment1.params=
+comment1.target=int\ getSpinSpeed()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Return\ the\ attributes\ of\ the\ WashingMachine\n
+numComments=3

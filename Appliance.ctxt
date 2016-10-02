@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=price\ description\ rewards\ thisenergyRating
+comment0.target=Appliance(int,\ java.lang.String,\ int,\ int)
+comment0.text=\n\ \ \ \ Constructor\ of\ objects\ in\ Appliance\ class.\n\ \ \ \ Throws\ an\ unchecked\ exception\ when\ an\ invalid\ value\ is\ entered.\n
+comment1.params=
+comment1.target=int\ getEnergyRating()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Method\ that\ returns\ attributes\ of\ an\ appliance\n
+numComments=3

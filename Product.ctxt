@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=thisprice\ thisdescription\ thisrewards
+comment0.target=Product(int,\ java.lang.String,\ int)
+comment0.text=\n\ Constructor\ of\ objects\ of\ class\ Products\ \n\ \n
+comment1.params=
+comment1.target=int\ getPrice()
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment3.params=
+comment3.target=int\ getRewards()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Return\ the\ description,\ price\ and\ rewards\ of\ a\ product.\n
+numComments=5

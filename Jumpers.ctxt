@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=price\ description\ rewards\ itemSize\ thiscolour
+comment0.target=Jumpers(int,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Jumpers\n
+comment1.params=
+comment1.target=java.lang.String\ getColour()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Return\ the\ attributes\ of\ the\ Jumper\n
+numComments=3
